@@ -1,5 +1,5 @@
 # 🚀 Mateus Oliveira 
-### **Senior Back-end Developer | Java Spring Boot Specialist**
+### **Back-end Developer | Java Spring Boot Specialist**
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusdev26&theme=dark&hide_border=true" alt="GitHub Streak"/>
