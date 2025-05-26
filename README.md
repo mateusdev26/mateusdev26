@@ -15,7 +15,6 @@
 
 ### **Testing & Logging**
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
 ![Log4j2](https://img.shields.io/badge/Log4j2-1F4F35?style=for-the-badge)
 
 ### **Productivity Boosters**
