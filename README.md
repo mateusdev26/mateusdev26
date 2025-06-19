@@ -1,7 +1,7 @@
 # 🚀 Mateus Oliveira 
 ### **Back-end Developer**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mateusdev26&theme=calm&hide_border=true&border_radius=5.5&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mateusdev26&theme=blue-green&hide_border=true&border_radius=5.5&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 ---
 
