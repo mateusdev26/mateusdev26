@@ -130,11 +130,6 @@ I'm a backend developer student focused on Java and Spring Boot, from Pernambuco
     src="https://github-readme-stats.vercel.app/api?username=mateusdev26&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
-<img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdev26&theme=tokyonight&layout=compact&custom_title=Learning+Technologies&langs_count=8&hide=html,css,javascript,typescript" 
-  />
+
 </p>
 
